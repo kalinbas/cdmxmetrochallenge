@@ -3,5 +3,7 @@ Este código se usó para calcular la ruta más eficiente para visitar cada esta
 
 ## Cómo usar
 Para probarlo solamente hay que correr 
+
 `pip install -r requirements.txt`
+
 `python index.py`
